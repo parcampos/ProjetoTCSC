@@ -8,6 +8,10 @@ Projeto Geral - Grupo
 Projeto de Banco de Dados - Zé Leonardo/Paulo
 Projeto de Interface(Telas/Classes) - Arthur/Rafael/Victor
 
+Conversa durante a Semana.
+Tarefas Realizadas durante o sábado.
+
+
 As funções podem ser alteradas ao longo do projeto.
 
 
